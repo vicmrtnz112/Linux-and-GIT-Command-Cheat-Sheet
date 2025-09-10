@@ -12,4 +12,5 @@ touch: Create an empty file
 
 GIT Commands:
 git init: Initialize a local Git repository
+git config: Set username and email
 
