@@ -23,3 +23,4 @@ git switch: Switch the current HEAD to a specified branch, updating the working 
 
 Vi Commands:
 vi filename: Open a file in vi
+:wq - Save and quit
