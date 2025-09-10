@@ -6,6 +6,6 @@ cd: Change directory
 pwd: Print current working directory
 ls: List files and directories
 rm: Remove files or directories
-
+cp: Copy files or directories
 
 GIT Commands:
