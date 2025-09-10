@@ -1,3 +1,4 @@
+
 Module 1 Assignment: Linux and GIT Command Cheat Sheet
 
 Linux Commands:
@@ -14,4 +15,4 @@ GIT Commands:
 git init: Initialize a local Git repository
 git config: Set username and email
 git remote add origin <url>: Link local repo to GitHub
-
+git status: Show current changes
