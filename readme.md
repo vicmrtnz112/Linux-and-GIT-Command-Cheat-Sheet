@@ -1,4 +1,3 @@
-
 Module 1 Assignment: Linux and GIT Command Cheat Sheet
 
 Linux Commands:
@@ -17,3 +16,5 @@ git config: Set username and email
 git remote add origin <url>: Link local repo to GitHub
 git status: Show current changes
 git add: Stage changes
+git commit -m "message": Commit staged changes
+
