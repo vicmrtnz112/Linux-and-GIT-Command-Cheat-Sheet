@@ -16,3 +16,4 @@ git init: Initialize a local Git repository
 git config: Set username and email
 git remote add origin <url>: Link local repo to GitHub
 git status: Show current changes
+git add: Stage changes
