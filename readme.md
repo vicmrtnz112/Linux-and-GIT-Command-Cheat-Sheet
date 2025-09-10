@@ -8,6 +8,7 @@ ls: List files and directories
 rm: Remove files or directories
 cp: Copy files or directories
 mv: Move or rename files
+touch: Create an empty file
 
 
 GIT Commands:
