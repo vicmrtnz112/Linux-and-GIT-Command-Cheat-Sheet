@@ -18,4 +18,4 @@ git status: Show current changes
 git add: Stage changes
 git commit -m "message": Commit staged changes
 git push -u origin main: Push changes from your local repository to a remote repository
-
+git pull: Fetch and integrate changes from a remote repository into the current local branch
