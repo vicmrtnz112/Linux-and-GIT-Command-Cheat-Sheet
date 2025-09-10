@@ -10,5 +10,6 @@ cp: Copy files or directories
 mv: Move or rename files
 touch: Create an empty file
 
-
 GIT Commands:
+git init: Initialize a local Git repository
+
