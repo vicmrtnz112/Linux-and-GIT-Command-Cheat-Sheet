@@ -25,3 +25,4 @@ Vi Commands:
 vi filename: Open a file in vi
 :wq - Save and quit
 i: Enter insert mode
+esc: Return to normal mode
