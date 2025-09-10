@@ -4,4 +4,5 @@ Linux Commands:
 mkdir: Create a new directory
 cd: Change directory
 pwd: Print current working directory
+ls: List files and directories
 GIT Commands:
