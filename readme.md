@@ -19,3 +19,4 @@ git add: Stage changes
 git commit -m "message": Commit staged changes
 git push -u origin main: Push changes from your local repository to a remote repository
 git pull: Fetch and integrate changes from a remote repository into the current local branch
+git switch: Switch the current HEAD to a specified branch, updating the working tree and index to match the target branch
